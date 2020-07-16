@@ -8,8 +8,9 @@ I'm currently working on:
 * small CLI and TUI Rust programs, mainly for some sort of data processing, e.g. using SQLite, parsing or generating a file, and so on
 * conversion of the code from "Deep Learning on ARM microntrollers from scratch" Udemy course into Rust
 * some small neural network projects, both desktop (model training) and embedded (inference)
+* Python modules in Rust for various data-related tasks, hoping for a performance gain
 
-Mine are constant learning / hobby project, which hopefully could lead to a career transition.
+These are constant learning / hobby projects, which hopefully could lead to a career transition.
 
 <!--
 **nebelgrau77/nebelgrau77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
